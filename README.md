@@ -16,8 +16,8 @@ My version: ![](./assets/images/screenshot.PNG)![](./assets/images/screenshot1.P
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/lzhong0119/Frontend-Mentor_Social-Link-Profile
+- Live Site URL: https://lzhong0119.github.io/Frontend-Mentor_Social-Link-Profile/
 
 ### Built with
 
